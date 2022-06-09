@@ -8,7 +8,7 @@ setup(
     author='Sarah Sloan',
     author_email='blah@example.com',
     license='MIT',
-    packages=['rocks'],
+    packages=['petrocks'],
     install_requires=[],
 
     classifiers=[
