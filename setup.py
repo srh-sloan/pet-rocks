@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='pet-rocks',
+    name='petrocks',
     version='0.2.0',    
     description='Package for making pet rocks',
     url='ttps://github.com/srh-sloan/pet-rocks',
