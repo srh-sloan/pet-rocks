@@ -1,10 +1,10 @@
 
-from petrocks import rock
+from petrocks import Rock
 
 def test_stuff():
     print('in a test')
     assert True
 
 def test_rock_print_info():
-    r = rock.Rock('Dave','pointy')
+    r = Rock('Dave','pointy')
     r.printinfo()
