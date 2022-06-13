@@ -6,3 +6,5 @@ class Rock:
         self.name = name
         self.shape = shape
     
+    def printinfo(self):
+        print('Hi my name is',self.name,'and I am',self.shape)
