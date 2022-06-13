@@ -1,4 +1,4 @@
-from . import rock
+from .rock import Rock
 
 __all__ = [
     'rock'
